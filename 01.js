@@ -1,4 +1,4 @@
-//So the evariables are basically passed by value so when,
+let //So the evariables are basically passed by value so when,
 
 let a = 5;
 let b= a;
