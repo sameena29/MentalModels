@@ -1,4 +1,4 @@
-1 //https://signalvnoise.com/posts/3124-give-it-five-minutes => it's easy to push back so give it five minutes
+1 //https://signalvnoise.com/posts/3124-give-it-five-minutes => it's easy to push back so give it five minutes.
 
 2 //  Functions are objects, but because they include a few unique additional features, 
   //  we’re going to refer to them separately to avoid confusion.
